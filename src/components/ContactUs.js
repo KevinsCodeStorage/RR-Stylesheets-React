@@ -1,7 +1,13 @@
+const stlyeContact ={
+    border:'5px solid black'
+}
+
+
+
 function ContactUs(){
 
     return (
-        <div>
+        <div style={stlyeContact}>
             Contact Us
         </div>
     )

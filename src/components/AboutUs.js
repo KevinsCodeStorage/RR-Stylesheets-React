@@ -1,7 +1,12 @@
+
+const stlyeAbout ={
+    fontSize:'30px'
+}
+
 function AboutUs(){
 
     return (
-        <div>
+        <div style={stlyeAbout}>
             About Us
         </div>
     )

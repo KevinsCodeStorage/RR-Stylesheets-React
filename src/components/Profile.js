@@ -1,9 +1,11 @@
-
+const stlyeProfile ={
+    backgroundColor:'gray'
+}
 
 function Profile(){
 
     return (
-        <div>
+        <div style={stlyeProfile}>
             Profile
         </div>
     )
